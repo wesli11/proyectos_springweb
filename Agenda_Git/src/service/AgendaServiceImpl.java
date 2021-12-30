@@ -31,4 +31,10 @@ public class AgendaServiceImpl implements AgengaService{
 		
 	}
 
+	@Override
+	public List<Persona> listaPersonas() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
