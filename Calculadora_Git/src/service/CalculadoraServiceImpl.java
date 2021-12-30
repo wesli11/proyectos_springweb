@@ -20,4 +20,10 @@ public class CalculadoraServiceImpl implements CalculadoraService{
 		return a*b;
 	}
 
+	@Override
+	public int dividir(int a, int b) {
+		// TODO Auto-generated method stub
+		return a/b;
+	}
+
 }
