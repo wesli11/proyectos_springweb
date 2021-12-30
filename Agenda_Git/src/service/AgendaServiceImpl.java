@@ -25,4 +25,10 @@ public class AgendaServiceImpl implements AgengaService{
 		return null;
 	}
 
+	@Override
+	public void eliminarPorEmail(String email) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
